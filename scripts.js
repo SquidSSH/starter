@@ -9,12 +9,12 @@ const searchInput = document.querySelector("#searchbar > input")
 const searchButton = document.querySelector("#searchbar > button")
 
 const lookup = {"/":"/","deepl":"https://deepl.com/","reddit":"https://reddit.com/","maps":"https://maps.google.com/","#new":"","#new-0":""}
-const engine = "google"
+const engine = "searx"
 const engineUrls = {
   deepl: "https://www.deepl.com/translator#-/-/",
   duckduckgo: "https://duckduckgo.com/?q=",
   ecosia: "https://www.ecosia.org/search?q=",
-  google: "https://searx.priv.pw/?q=",
+  searx: "https://searx.priv.pw/?q=",
   startpage: "https://www.startpage.com/search?q=",
   youtube: "https://www.youtube.com/results?q=",
 }
