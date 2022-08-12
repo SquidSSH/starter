@@ -14,7 +14,7 @@ const engineUrls = {
   deepl: "https://www.deepl.com/translator#-/-/",
   duckduckgo: "https://duckduckgo.com/?q=",
   ecosia: "https://www.ecosia.org/search?q=",
-  google: "https://www.google.com/search?q=",
+  google: "https://searx.priv.pw/?q=",
   startpage: "https://www.startpage.com/search?q=",
   youtube: "https://www.youtube.com/results?q=",
 }
